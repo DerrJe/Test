@@ -77,7 +77,7 @@ namespace Powernet.WindowsPower
         {
             this.WindowState = WindowState.Minimized;
         }
-        //sex
+        //se
         private void CheckErrors()
         {
             StringBuilder login = new StringBuilder();
